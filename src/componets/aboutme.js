@@ -23,9 +23,10 @@ export const aboutme = () => {
                                     <h5>About me</h5>
                                     <p>I’m currently a 4th semester Information Technology – Software Development that attends Southern Alberta Institute of Technology.</p>
                                     <p>I’m consistently looking to expand my knowledge as a software developer by learning new or interesting programming languages.</p>
-                                    <p>Current Languages: JavaScriptm Java, SQL (Oracle / MySQL), C#, Ruby, HTML5, CSS</p>
+                                    <p>Current Languages: Java, SQL (Oracle / MySQL), C#, Ruby, HTML5, CSS</p>
+                                    <p>Familiar Languages: Javascript, React.js</p>
                                     <p>Current Frameworks: Maven, Git, Ubuntu, Tomcat. Some experience with AWS, Google Cloud, Heroku.</p>
-                                    <p>Currently learning: Node.js, MongoDB, React.js, Express, GraphSQL.</p>
+                                    <p>Currently learning: Node.js, MongoDB,  Express, GraphSQL.</p>
                                 </Media.Body>
                             </Media>
                         </ul>
