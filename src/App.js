@@ -31,7 +31,6 @@ function App() {
 	        }
 	    }
 	}} />
-<br/>
     <BrowserRouter>
     <Switch>
     <Route exact path="/">

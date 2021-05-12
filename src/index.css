@@ -8,6 +8,9 @@ body {
 
   background-image: url(componets/images/background.jpg);
   background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  
 }
 
 .shrinkBoxes
@@ -59,11 +62,27 @@ position: absolute;
   text-align: left;
 }
 
+.centerImage2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textCenter
+{
+  text-align: center;
+}
+
 .centerImg
 {
   margin: auto;
   top:50%;
   left: 50%;
+}
+
+.background-dark
+{
+  background-color: black;
 }
 
 .imgAboutSize
