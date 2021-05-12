@@ -5,6 +5,7 @@ import Foot from "./componets/footer";
 import Title from "./componets/title";
 import Aboutme from "./componets/aboutme";
 import Projects from "./componets/projects";
+import Resume from "./componets/resume";
 import Particles from 'react-particles-js';
 
 
@@ -44,6 +45,9 @@ function App() {
           </Route>
           <Route path="/projects">
              <Projects/>
+          </Route>
+          <Route path="/resume">
+             <Resume/>
           </Route>
         </Switch>
     </BrowserRouter>
