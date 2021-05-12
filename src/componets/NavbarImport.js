@@ -6,7 +6,7 @@ export const NavbarImport = () => {
     return (
       <>
       <div className="navBarIn">
-  <Navbar fixed="top" className="justify-content-center navbar fixed-top navbar-expand-sm" variant="dark">
+  <Navbar fixed="top" className="justify-content-center navbar fixed-top navbar-expand-sm navbarColor" variant="dark">
     <Navbar.Brand href="/home">Home</Navbar.Brand>
     <Navbar.Brand href="/aboutme">About me</Navbar.Brand>
     <Navbar.Brand href="/projects">Projects</Navbar.Brand>
