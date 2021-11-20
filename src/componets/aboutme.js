@@ -5,7 +5,7 @@ import photos from './images/profile.jpg';
 export const aboutme = () => {
     return (
 
-        <div classname="container-fluid justify-content-md-center">
+        <div className="container-fluid justify-content-md-center">
             
         <div className="shrinkBoxes">
             <div className="justify-content-md-center">
@@ -14,7 +14,7 @@ export const aboutme = () => {
 
             <img src={photos} className="img-fluid centerImage2" width={280} height={350}/>
 
-        <div class="textCenter">
+        <div className="textCenter">
         <div className="shrinkBoxes">
             <h5>About me</h5>
                                     <p>Graduated from Southern Alberta Institute of Technology majoring in Software Development. GPA of 3.56, and strong problem solving skills.</p>
