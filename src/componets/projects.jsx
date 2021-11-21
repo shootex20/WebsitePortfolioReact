@@ -1,5 +1,5 @@
 import React from 'react'
-import { Carousel, Figure, ListGroup, Card, Button, Media } from 'react-bootstrap';
+import { Card, Button, Media } from 'react-bootstrap';
 import project1 from './images/oursafety.png';
 import project2 from './images/homenventory.png';
 import project3 from './images/hnventory.png';
@@ -7,7 +7,7 @@ import project3 from './images/hnventory.png';
 
 export const projects = () => {
   return (
-    <div className="shrinkBoxes">
+    <div className="shrinkBoxes" id="projects">
     <div className="justify-content-md-center">
       <div className="responsiveContainer">
         
