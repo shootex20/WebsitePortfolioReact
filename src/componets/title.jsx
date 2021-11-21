@@ -1,14 +1,13 @@
 import React from 'react'
 import Fade from 'react-reveal/Fade';
 import Typed from 'react-typed';
-import SocialMediaButtons from 'react-social-media-buttons';
 
 
 export const title = () => {
 
 
     return (
-        <>
+        <div className="containerMax">
             <div className="headerContainer">
                 <div className="responsiveContainer">
                     <Fade bottom duration={1000} delay={300} distance="0px">
@@ -26,9 +25,7 @@ export const title = () => {
 
                 </div>
             </div>
-
-        </>
-
+            </div>
     )
 }
 

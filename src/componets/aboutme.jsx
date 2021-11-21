@@ -1,11 +1,10 @@
 import React from 'react'
-import { Carousel, Figure, ListGroup, Card, Button, Media } from 'react-bootstrap';
 import photos from './images/profile.jpg';
 
 export const aboutme = () => {
     return (
 
-        <div className="container-fluid justify-content-md-center">
+        <div className="container-fluid justify-content-md-center" id="aboutme">
             
         <div className="shrinkBoxes">
             <div className="justify-content-md-center">

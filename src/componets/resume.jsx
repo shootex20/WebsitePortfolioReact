@@ -1,11 +1,9 @@
 import React from 'react'
-import { Navbar, Nav, Form, FormControl, Button } from 'react-bootstrap';
 
 
 export const resume = () => {
     return (
-      <>
-    <div className="shrinkBoxes">
+    <div className="shrinkBoxes" id="resume">
     <div className="justify-content-md-center">
 
         
@@ -15,7 +13,6 @@ export const resume = () => {
  
   </div>
   </div>
-  </>
     )
 }
 
