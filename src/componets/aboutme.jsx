@@ -11,10 +11,11 @@ export const aboutme = () => {
                         <div className="textCenter">
                             <div className="shrinkBoxes">
                                 <h5>About me</h5>
+                                <p>I love to learn and I love to challenge myself, I've been programming since I was 13 creating small game scripts like health bars, attack animations, eventually I ended up creating an entire server system and building my own PC.</p>
                                 <p>Graduated from Southern Alberta Institute of Technology majoring in Software Development. GPA of 3.56, and strong problem solving skills.</p>
-                                <p>I’m consistently looking to expand my knowledge as a software developer by learning new or interesting programming languages. I am very fluent with Algorithms and data structures and a strong ability to solve problems.</p>
-                                <p>Current Languages: Java, SQL (Oracle / MySQL), C#, Ruby, HTML5, CSS, JSP's, Javascript, React.js, TypeScript</p>
-                                <p>Current Frameworks/Clouds: Maven, Git, Ubuntu, Tomcat. Some experience with AWS, Google Cloud, Heroku, Azure.</p>
+                                <p>Current Languages: Java, SQL (Oracle / MySQL), C#, CSS, Javascript, React.js, TypeScript however I can catch onto any programming languages quickly.</p>
+                                <p>Some Frameworks: Maven, Git, Ubuntu, Tomcat. </p>
+                                <p>I have experience in DevOps as well, mostly in Azure and setting up new apps from scratch and tinkering with build pipelines on deploying apps.</p>
                             </div>
                         </div>
                     </div>
