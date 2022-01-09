@@ -13,8 +13,9 @@ export const aboutme = () => {
                                 <h5>About me</h5>
                                 <p>I love to learn and I love to challenge myself, I've been programming since I was 13 creating small game scripts like health bars, attack animations, eventually I ended up creating an entire server system and building my own PC.</p>
                                 <p>Graduated from Southern Alberta Institute of Technology majoring in Software Development. GPA of 3.56, and strong problem solving skills.</p>
-                                <p>Current Languages: Java, SQL (Oracle / MySQL), C#, CSS, Javascript, React.js, TypeScript however I can catch onto any programming languages quickly.</p>
-                                <p>Some Frameworks: Maven, Git, Ubuntu, Tomcat. </p>
+                                <p>Programming Languages: Java, JavaScript/HTML/CSS, SQL, Bash, C#, React.js, TypeScript.js</p>
+                                <p>Frameworks: Express.js, Node.js, .Net framework </p>
+                                <p>Tools: Azure, Git, Azure DevOps, CI/CD, Maven, Tomcat</p>
                                 <p>I have experience in DevOps as well, mostly in Azure and setting up new apps from scratch and tinkering with build pipelines on deploying apps.</p>
                             </div>
                         </div>
