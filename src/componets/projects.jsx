@@ -28,10 +28,10 @@ export const projects = () => {
             <h5>OurSafetyApp</h5>
                 <p>
                   OurSafetyApp is a safety management system, Companys can: Add equipment, remove Equipment, add employees, deactivate employees, edit employees, and add their own safety manuals. Admins can log in and add companys.
-                  This was built using Java, Bootstrap, MySQL, Java servlets, and lastly Java JSTL. To login test it out: Company access - username: manager2 password: password | OurSafetyApp Admin: username: oursafetyapplication@gmail.com password: password
+                  This was built using Java, Bootstrap, MySQL, Java servlets, and lastly Java JSTL. To login test it out: Company access - username: manager2 password: password | OurSafetyApp Admin: username: oursafetyapplication@gmail.com password: password --NOTE: Currently not running
     <br />
     <br />
-                  <Button variant="outline-primary" href="http://chelseycoughlin.com:8080/OurSafetyApp/">View Live</Button>{' '}
+                  <Button variant="outline-primary" href="http://chelseycoughlin.com:8080/OurSafetyApp/" disabled={true}>View Live</Button>{' '}
                   <Button variant="outline-info" href="https://github.com/shootex20/OurSafetyApp_Maven">Source Code</Button>{' '}
                 </p>
             <br />
@@ -48,11 +48,11 @@ export const projects = () => {
                 <p>
                   HomeNventory system was a final project for our semester 3 at SAIT, the UI was designed using Bulma. This was built entirely with Java, JSTL, Servlets.
   <br />
-  This was built using Java, Bootstrap, MySQL, Java servlets, and lastly Java JSTL. Basic user: username: anne password: password | Admin Login: username: admin password: password
+  This was built using Java, Bootstrap, MySQL, Java servlets, and lastly Java JSTL. Basic user: username: anne password: password | Admin Login: username: admin password: password  --NOTE: Currently not running
   <br />
   <br/>
                   <Button variant="outline-primary" href="http://chelseycoughlin.com:8080/HomeNventory/">View Live</Button>{' '}
-                  <Button variant="outline-info" href="https://github.com/shootex20/Semester3_Final_WebDev_Project">Source Code</Button>{' '}
+                  <Button variant="outline-info" href="https://github.com/shootex20/Semester3_Final_WebDev_Project" disabled={true}>Source Code</Button>{' '}
                 </p>
             <br />
             <Media as="li">
